@@ -25,7 +25,7 @@ Comments: Header and Footer are examples of how new Website will look. The body 
 **IMPORTANT*********************************************************************************************************
 
 
-Start of Website: Tech_Transfermock.html
+Start of Website: index.html
 
 **WARNING: Some Features are only there for show and will need to be implemented. **
     
